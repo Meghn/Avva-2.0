@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 secrets.json
+avva_rag_vector_db/
