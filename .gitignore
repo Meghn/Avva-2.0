@@ -195,3 +195,5 @@ cython_debug/
 
 secrets.json
 avva_rag_vector_db/
+CLAUDE.md
+.python-version
